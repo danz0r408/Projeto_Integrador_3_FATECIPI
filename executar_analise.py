@@ -177,7 +177,7 @@ plt.close()
 print("Análise 4 concluída. Gráfico de correlação com Health Score salvo.")
 
 
-# --- ANÁLISE 5: CLUSTERIZAÇÃO DE ALIMENTOS (K-MEANS) ---
+# --- ANÁLISE 5: CLUSTERIZAÇÃO DE ALIMENTOS (K-MEANS) --
 
 print("\nIniciando Análise 5: Clusterização de Alimentos...")
 
